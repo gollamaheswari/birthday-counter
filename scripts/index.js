@@ -4,7 +4,7 @@ const giftbox = document.getElementById('merrywrap');
 const canvasC = document.getElementById('c');
 
 const config = {
-  birthdate: 'November 16, 2024',
+  birthdate: 'November 13, 2024',
   name: 'Prasanna (Miss India)'
 };
 
